@@ -1,1 +1,8 @@
 title: OAuth setup with <PROVIDER>
+body:
+- type: markdown
+  attributes:
+    label: Configuration Example
+    description: Add your example configuration. You can provide code blocks, screenshots, and links.
+  validation:
+    required: true
